@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Varos\Varos\bin\Debug\net8.0\Varos.exe
+C:\Users\User\source\repos\Varos\Varos\bin\Debug\net8.0\Varos.deps.json
+C:\Users\User\source\repos\Varos\Varos\bin\Debug\net8.0\Varos.runtimeconfig.json
+C:\Users\User\source\repos\Varos\Varos\bin\Debug\net8.0\Varos.dll
+C:\Users\User\source\repos\Varos\Varos\bin\Debug\net8.0\Varos.pdb
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.AssemblyInfo.cs
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.dll
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\refint\Varos.dll
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.pdb
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.genruntimeconfig.cache
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\ref\Varos.dll
+C:\Users\User\source\repos\Varos\Varos\obj\Debug\net8.0\Varos.sourcelink.json
